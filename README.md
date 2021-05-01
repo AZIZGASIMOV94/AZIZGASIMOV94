@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I love planning, tracking, and involving in the development of exciting products with the focus on BackEnd.
+
+## I graduated from [Eszterházy Károly Egyetem](https://uni-eszterhazy.hu/)
+
+## As a thesis work I implemented coloring book project on one of the biggest hungarian educational portal using JavaScript/TypeScript
+
+## My favorit developemt tools are Java and Java EE Technologies, JavaScript, React.js
+
+# Contact info:
+## gasimovaziz@gmail.com
+## [My linkedIn profile](https://www.linkedin.com/in/aziz-gasimov/)
+## [My Medium Profile](https://gasimovaziz.medium.com/)
+
+
+
+
