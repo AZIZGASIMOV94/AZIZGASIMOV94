@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ## My favorit developemt tools are Java and Java EE Technologies, JavaScript, React.js
 
 # Contact info:
-## [My Resume](https://azizgasimov94.github.io/resume/)
-## gasimovaziz@gmail.com
-## [My linkedIn Profile](https://www.linkedin.com/in/aziz-gasimov/)
-## [My Medium Profile](https://gasimovaziz.medium.com/)
-## [My Hackerrank Profile](https://www.hackerrank.com/gasimovaziz)
+## ⭕ [My Resume](https://azizgasimov94.github.io/resume/)
+## ⭕ gasimovaziz@gmail.com
+## ⭕ [My linkedIn Profile](https://www.linkedin.com/in/aziz-gasimov/)
+## ⭕ [My Medium Profile](https://gasimovaziz.medium.com/)
+## ⭕ [My Hackerrank Profile](https://www.hackerrank.com/gasimovaziz)
 
 
 
