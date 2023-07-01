@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ## ⭕ [My Resume](https://azizgasimov94.github.io/resume/)
 ## ⭕ aziz.gasimov94@gmail.com / gasimovaziz@gmail.com
 ## ⭕ [My linkedIn Profile](https://www.linkedin.com/in/aziz-gasimov/)
-## ⭕ [My Medium Profile](https://gasimovaziz.medium.com/)
-## ⭕ [My Hackerrank Profile](https://www.hackerrank.com/gasimovaziz)
 
 
 
