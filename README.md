@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Contact info:
 ## ⭕ [My Resume](https://azizgasimov94.github.io/resume/)
-## ⭕ aziz.gasimov94@gmail.com / gasimovaziz@gmail.com
+## ⭕ +48571075246 | aziz.gasimov94@gmail.com
 ## ⭕ [My linkedIn Profile](https://www.linkedin.com/in/aziz-gasimov/)
 
 
