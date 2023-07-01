@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I love planning, tracking, and involving in the development of exciting products with the focus on BackEnd.
 
-## I graduated from [Eszterházy Károly Egyetem](https://uni-eszterhazy.hu/)
+## I graduated from [Eszterházy Károly Catholic University](https://uni-eszterhazy.hu/)
 
 ## As a thesis work I implemented coloring book project on one of the biggest hungarian educational portal using JavaScript/TypeScript
 
