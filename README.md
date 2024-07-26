@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I love planning, tracking, and involving in the development of exciting products with the focus on BackEnd.
+## I love planning, tracking, and involving in the development of exciting products with a focus on the back-end.
 
 ## I graduated from [Eszterházy Károly Catholic University](https://uni-eszterhazy.hu/)
 
-## As a thesis work I implemented coloring book project on one of the biggest hungarian educational portal using JavaScript/TypeScript
+## As a thesis work I implemented a coloring book project on one of the biggest Hungarian educational portal using JavaScript/TypeScript
 
-## My favorit developemt tools are Java and Java EE Technologies, JavaScript, React.js
+## My favorite development tools are Java and Java EE Technologies, JavaScript, React.js
 
 # Contact info:
 ## ⭕ [Resume](https://azizgasimov94.github.io/resume/)
-## ⭕ +48571075246 | aziz.gasimov94@gmail.com
+## ⭕ aziz.gasimov94@gmail.com
 ## ⭕ [LinkedIn Profile](https://www.linkedin.com/in/aziz-gasimov/)
 ## ⭕ [Stack Overflow Profile](https://stackoverflow.com/users/10832295/aziz-gasimov)
 ## ⭕ [LeetCode Profile](https://leetcode.com/gasimovaziz/)
