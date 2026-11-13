@@ -28,7 +28,7 @@ I've worked in Azerbaijan, Poland and Hungary, at companies including Rockwell A
 | Project | What it shows |
 |---|---|
 | [payday-trade-ms](https://github.com/AZIZGASIMOV94/payday-trade-ms) | Multi-module microservices (stocks, orders, deposits, notifications) with Gradle, Docker and tests |
-| [csv-import-rest-api](https://github.com/AZIZGASIMOV94/csv-import-rest-api) | Spring Boot REST API with transactional CSV import, validation and global error handling |
+| [csv-import-rest-api-task](https://github.com/AZIZGASIMOV94/csv-import-rest-api-task) | Spring Boot REST API with transactional CSV import, validation and global error handling |
 | [file-read-write-utility](https://github.com/AZIZGASIMOV94/file-read-write-utility) | Java 17 NIO.2 library and CLI with 25 JUnit 5 tests and CI |
 | [iba_tech](https://github.com/AZIZGASIMOV94/iba_tech) | Algorithm interview tasks (sliding window, BFS on grids) with complexity analysis and tests |
 
