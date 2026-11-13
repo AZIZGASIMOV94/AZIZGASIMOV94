@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## My favorite development tools are Java and Java EE Technologies, JavaScript, React.js
 
 # Contact info:
-## ⭕ [Resume](https://azizgasimov94.github.io/resume/)
 ## ⭕ aziz.gasimov94@gmail.com
 ## ⭕ [LinkedIn Profile](https://www.linkedin.com/in/aziz-gasimov/)
 ## ⭕ [Stack Overflow Profile](https://stackoverflow.com/users/10832295/aziz-gasimov)
